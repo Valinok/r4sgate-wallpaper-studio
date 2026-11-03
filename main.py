@@ -47,7 +47,7 @@ from localization import (
     detect_system_language,
 )
 
-APP_VERSION: Final = "1.0.0"
+APP_VERSION: Final = "0.1.0"
 PreviewMode = Literal["none", "image", "header"]
 
 

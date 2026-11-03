@@ -4,6 +4,8 @@
 [**ESP32-R4sGate-for-Redmond**](https://github.com/alutov/ESP32-R4sGate-for-Redmond)
 и обратное восстановление PNG из готового заголовка.
 
+Распространяется под лицензией **MIT**. См. [`LICENSE`](LICENSE).
+
 ## Возможности
 
 - **Источники**: PNG, JPG/JPEG, BMP. Размер источника определяется автоматически.
@@ -105,6 +107,8 @@ py -m venv .venv
 | `converter.py` | RGB565, масштабирование, чтение и запись заголовков |
 | `localization.py` | строки ru/en и определение языка системы |
 | `tests/` | модульные тесты |
+| `LICENSE` | лицензия MIT |
+| `CHANGELOG.md` | история изменений |
 
 ## Об авторе / Дисклеймер
 
@@ -120,6 +124,8 @@ py -m venv .venv
 Converts images into an RGB565 `wallpaper.h` for the
 [**ESP32-R4sGate-for-Redmond**](https://github.com/alutov/ESP32-R4sGate-for-Redmond)
 firmware and restores PNG previews from existing headers.
+
+Licensed under the **MIT** License. See [`LICENSE`](LICENSE).
 
 ## Features
 
@@ -188,6 +194,8 @@ Output: `dist\R4sGate-Wallpaper-Studio.exe`.
 | `converter.py` | RGB565, scaling, header read/write |
 | `localization.py` | ru/en strings and language detection |
 | `tests/` | Unit tests |
+| `LICENSE` | MIT license |
+| `CHANGELOG.md` | Release notes |
 
 ## Author / Disclaimer
 
