@@ -106,6 +106,13 @@ py -m venv .venv
 | `localization.py` | строки ru/en и определение языка системы |
 | `tests/` | модульные тесты |
 
+## Об авторе / Дисклеймер
+
+Этот проект создан в режиме **vibe coding** с помощью нейросети (AI).  
+Код может содержать «**нейрослоп**» — избыточные, неоптимальные или спорные
+решения. Перед использованием в прошивке рекомендуется проверить
+сгенерированный `wallpaper.h`. Используйте на свой страх и риск.
+
 ---
 
 # English
@@ -181,3 +188,10 @@ Output: `dist\R4sGate-Wallpaper-Studio.exe`.
 | `converter.py` | RGB565, scaling, header read/write |
 | `localization.py` | ru/en strings and language detection |
 | `tests/` | Unit tests |
+
+## Author / Disclaimer
+
+This project was **vibe-coded** with an AI assistant.  
+Expect some **AI slop** — redundant, suboptimal or opinionated code. Please
+verify any generated `wallpaper.h` before flashing it to your device. Use at your
+own risk.
